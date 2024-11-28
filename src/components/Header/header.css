@@ -1,0 +1,19 @@
+.header{
+    width: 100%;
+    background-color: #fff;
+    border-bottom: 1px solid blue;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+.header-logo{
+    width: 56px;
+    height: 62px;
+}
+
+.header-right-button{
+    width: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
