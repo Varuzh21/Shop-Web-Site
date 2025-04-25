@@ -38,3 +38,11 @@ body {
   display: inline-flex;
   align-items: center;
 }
+
+.button {
+  width: 100%;
+  height: 56px;
+  border-radius: 8px;
+  border: none;
+  background: rgb(244, 94, 12);
+}

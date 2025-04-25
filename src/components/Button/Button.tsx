@@ -1,11 +1,11 @@
 import React from 'react'
 import { ButtonType } from '@/models'
 
-const Button = ({title, type, className, onClick}: ButtonType) => {
+const Button = ({title, type, onClick}: ButtonType) => {
     return (
         <button 
             type={type}
-            className={`${className} button`}
+            className={`button`}
             onClick={onClick}
         >
             {title}
