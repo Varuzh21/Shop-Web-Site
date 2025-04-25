@@ -32,7 +32,7 @@ const MainFirstItem = () => {
                     <div className='main-first-item-right'>
                         <img 
                             src={product?.thumbnail}
-                            alt={product?.title}
+                            alt={product?.title} 
                             className='main-first-item-image'
                         />
                     </div>
